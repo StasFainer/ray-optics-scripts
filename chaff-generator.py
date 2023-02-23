@@ -4,7 +4,7 @@ import json
 Xmax = 1300 # the chaff will be randomly scattered in an Xmax by Ymax rectangle
 Ymax = 1300 #
 L = 5 # length of a single chaff pieace
-N=10000 # number of chaff pieces
+N = 10000 # number of chaff pieces
 x_origin = 500 # simulation origin coordinates
 y_origin = 200 #
 scale = 0.5 # simulation initial zoom
