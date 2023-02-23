@@ -1,7 +1,7 @@
 # ray-optics-scripts
 Python scripts that generate some of the simulation features in - https://phydemo.app/ray-optics/gallery/
 # License
-Copyright [2023] [Stas Fainer]
+Copyright [2023] [Stanislav Fainer]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
